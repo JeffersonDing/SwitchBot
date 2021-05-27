@@ -1,0 +1,2 @@
+# SwitchBot
+A homebrew SwitchBot
