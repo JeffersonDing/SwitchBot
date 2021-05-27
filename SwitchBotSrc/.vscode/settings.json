@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.phps": "php",
+        "*.sage": "python",
+        "functional": "cpp"
+    }
+}
